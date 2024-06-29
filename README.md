@@ -4,7 +4,7 @@ Code for the paper titled: The pace of life for forest trees
 Bialic-Murphy, et al 2024
 
 --------------------------------------------------------------
-Contents of "script" folder:
+Summary of scripts:
 --------------------------------------------------------------
 1_Fit_Vital_R  --Load data and fit vital rate functions.
 2_IPM_4_HPC.R  --Load vital rate parameter estimates, set up IPMs, calculate LHTs 
